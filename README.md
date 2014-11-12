@@ -1,5 +1,4 @@
 Imgur-Image-Ripper
-Author:- Prakhar Gupta 
 ===================
 Imgur Image Capturing [Python]
 http://imgur.com/
