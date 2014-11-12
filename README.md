@@ -1,7 +1,7 @@
 Imgur-Image-Scratch
 ===================
 Imgur Image Capturing [Python]
-
+http://imgur.com/
 This is small project to capture images[Random Images] from Imgur site.
 
 Following libraries are used:
